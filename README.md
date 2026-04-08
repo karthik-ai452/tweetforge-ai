@@ -3,8 +3,7 @@
 > An AI-powered brand tweet generator that creates 10 on-brand tweets using 3 intelligent voice analysis methods.
 
 🔗 **Live Demo:** [https://tweetforge-ai.vercel.app](https://tweetforge-ai.vercel.app/)  
-📁 **GitHub:** [https://github.com/Brijuval/tweetforge-ai](https://github.com/Brijuval/tweetforge-ai)
-
+📁 **GitHub:** [(https://github.com/karthik-ai452/tweetforge-ai)](https://github.com/karthik-ai452/tweetforge-ai)
 ---
 
 ## 📌 What It Does
@@ -56,7 +55,7 @@ TweetForge takes your brand details and generates **10 perfectly on-brand tweets
 
 ```bash
 # Clone the repo
-git clone https://github.com/Brijuval/tweetforge-ai.git
+git clone https://github.com/karthik-ai452/tweetforge-ai
 cd tweetforge-ai
 
 # Install dependencies
