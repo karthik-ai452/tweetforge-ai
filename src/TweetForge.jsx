@@ -801,8 +801,8 @@ Return ONLY this JSON structure with no extra text:
                   <div style={{fontSize:13,color:"#94A3B8"}}>{result.tweets.length} tweets · {form.brandName}</div>
                 </div>
                 <div style={{display:"flex",gap:8}}>
-                  <button className="btn-ghost" onClick={()=>{setPage("form");setResult(null);}}>↺ Regenerate</button>
-                  <button className="btn-primary" style={{padding:"9px 20px",fontSize:13}} onClick={exportTxt}>⬇ Export</button>
+                  <button className="btn-ghost" style={{fontSize:12}} onClick={reset}>✦ New Brand</button>
+                  <button className="btn-primary" style={{fontSize:12,padding:"9px 20px"}} onClick={handleGenerate}>↺ Regenerate</button>
                 </div>
               </div>
 
