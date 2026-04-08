@@ -189,6 +189,5 @@ MIT License — free to use and modify.
 
 ## 👤 Author
 
-Built by **Valmeeki / Brijuval** as part of an AI Tools & Workflows assignment.
+Built by **karthik**.
 
-> Powered by [Groq](https://groq.com) · [LLaMA 3.3 70B](https://groq.com/llama3) · [Vite](https://vitejs.dev) · [React](https://react.dev)
